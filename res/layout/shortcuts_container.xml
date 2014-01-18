@@ -9,7 +9,11 @@
         android:background="#78808080"
         android:orientation="vertical"
         android:padding="8dp" >
+        
+        <LinearLayout android:layout_height="30dp" android:layout_width="30dp" android:layout_gravity="right" android:background="@android:color/white">
+            
+        </LinearLayout>
        
-    </LinearLayout>
+   </LinearLayout>
 
 <!-- </merge> -->
